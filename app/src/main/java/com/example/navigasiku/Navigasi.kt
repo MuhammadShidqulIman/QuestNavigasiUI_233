@@ -1,4 +1,6 @@
 package com.example.navigasiku
 
-class Navigasi {
+enum class Navigasi {
+    Formulir,
+    Detail
 }
